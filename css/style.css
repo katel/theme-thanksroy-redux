@@ -238,6 +238,7 @@ div.error {font-size:1.5em; line-height:1.33333em; margin:1.33333em 0;}
 #exhibit-page-navigation {clear:both;float:right;}
 #exhibit-page-navigation .next-page {margin-left:2em;}
 }/*end @media screen*/
+
 /* Print Styles */
 @media print {
 body{
